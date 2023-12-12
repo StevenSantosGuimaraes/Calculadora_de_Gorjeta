@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Calculadora de Gorjeta</string>
+    <string name="digite_um_valor">Digite um valor</string>
+    <string name="logo_do_app">Logo do app</string>
+    <string name="gorjeta">Gorjeta</string>
+    <string name="total">Total</string>
+</resources>
